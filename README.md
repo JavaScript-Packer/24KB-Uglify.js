@@ -1,6 +1,6 @@
 # Uglify.js
 
-This version is minified and compressed with bzip2 to client side self extracting/executing JavaScript in just 24KB! Other versions are 100KB to 250KB. This version is also much easier to use, just a function to call when ever you want dynamically.
+This version is minified and compressed with bzip2 to client side self extracting/executing JavaScript in just 24KB! Other versions are 100KB to 250KB (add on another 300KB for couple of versions of JQuery if you swing that way). This version is also much easier to use, just a function to call when ever you want dynamically.
 
 UglifyJS is a JavaScript compressor/minifier written in JavaScript. It also contains tools that allow one to automate working with JavaScript code:
 
